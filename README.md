@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
