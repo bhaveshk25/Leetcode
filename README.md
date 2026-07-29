@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
