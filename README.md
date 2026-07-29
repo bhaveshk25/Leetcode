@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/bhaveshk25/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhaveshk25/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Design
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/bhaveshk25/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/bhaveshk25/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/bhaveshk25/Leetcode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bhaveshk25/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
