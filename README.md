@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/bhaveshk25/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/bhaveshk25/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bhaveshk25/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhaveshk25/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/bhaveshk25/Leetcode/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -73,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bhaveshk25/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/bhaveshk25/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
