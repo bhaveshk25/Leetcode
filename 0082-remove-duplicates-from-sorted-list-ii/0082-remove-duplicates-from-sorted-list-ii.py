@@ -14,9 +14,9 @@ class Solution:
             if cur.val == cur.next.val:
                 while cur.next and cur.val == cur.next.val:
                     cur = cur.next
-                prev.next = cur.next  # Skip all duplicates
+                prev.next = cur.next  
             else:
-                prev = prev.next  # Move to next distinct node
+                prev = prev.next  
             cur = cur.next
 
         return dummy.next
