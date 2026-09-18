@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/bhaveshk25/https-github.com-bhaveshk25-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/bhaveshk25/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/bhaveshk25/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/bhaveshk25/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/bhaveshk25/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
